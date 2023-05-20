@@ -16,6 +16,8 @@
 ## Learnt
  - The fieldset tag is used to group related elements in a form and draws a box around the related elements
 - The textarea tag defines a multi-line text input control.The textarea element is often used in a form, to collect user inputs like comments or reviews.
+-  The <input type="radio"> defines a radio button.Radio buttons are normally presented in radio groups (a collection of radio buttons describing a set of related options). Only one radio button in a group can be selected at the same time.
+-  The <input type="checkbox"> defines a checkbox.The checkbox is shown as a square box that is ticked (checked) when activated.Checkboxes are used to let a user select one or more options of a limited number of choices.
 - <bold>CSS property </bold>
     - border: 0 = border removed.
     - margin : 0 auto = four side attanged in equall.
@@ -27,7 +29,7 @@
 - The option tags inside the element define the available options in the drop-down list. 
 
 ## Deploy on Vercel
-https://vercel.com/pavithra-deepika/register-form
+https://register-form-sfdd9kgri-pavithra-deepika.vercel.app/
 ## Built by
 
 👤 **Bavithra**
